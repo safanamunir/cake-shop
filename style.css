@@ -14,3 +14,34 @@ img{
   padding-right:30px; */
   }
 
+#aboutImg{
+    width: 15vmax;
+    height: 25vh;
+    /* padding: 10px; */
+}
+#reviewImg{
+    width: 50px;
+    height: 60px;
+}
+h1{
+    color: #ff99c2;
+}
+.col-md-3{
+    text-align: center;
+}
+.card-header{
+    background-color: #ff99c2;
+    color: #fff;
+    font-weight: bold;
+    font-size:x-large;
+}
+.btn{
+    background-color: #FF66A4 !important;
+    color: #fff;
+    font-weight: bold;
+}
+a{
+    padding: 10px;
+}
+
+
