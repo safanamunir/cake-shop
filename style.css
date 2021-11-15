@@ -1,6 +1,4 @@
 img{
-    /* width: 13vmax;
-    height: 10vh; */
     width: 170px;
     height: 60px;
 }
@@ -10,18 +8,16 @@ img{
 .navbar-nav > li{
     margin-left:30px;
     margin-right:30px;
-    /* padding-left:30px;
-  padding-right:30px; */
+
   }
 
 #aboutImg{
     width: 15vmax;
     height: 25vh;
-    /* padding: 10px; */
 }
 #reviewImg{
     width: 50px;
-    height: 60px;
+    height: 50px;
 }
 h1{
     color: #ff99c2;
@@ -42,6 +38,10 @@ h1{
 }
 a{
     padding: 10px;
+}
+
+footer{
+    background-color:#E5E3E4;
 }
 
 
